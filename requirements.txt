@@ -1,0 +1,7 @@
+python-telegram-bot>=20.0
+selenium>=4.0.0
+beautifulsoup4>=4.9.3
+google-generativeai>=0.3.0
+reportlab>=4.0.0
+SpeechRecognition>=3.8.1
+webdriver_manager>=4.0.0
