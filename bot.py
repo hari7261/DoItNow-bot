@@ -17,8 +17,8 @@ import speech_recognition as sr
 import time
 
 # Configuration
-TELEGRAM_TOKEN = "7802663787:AAHD3jxPf8QwkYK22QmCsj1F8iwAggmPEoA"
-GEMINI_API_KEY = "AIzaSyD8sGezvKsCuU5HefKClMCmMw5_TUELlu4"
+TELEGRAM_TOKEN = "YOUR-TELEGRAM-API"
+GEMINI_API_KEY = "YOUR-GEMINI-API"
 
 # Initialize AI models
 genai.configure(api_key=GEMINI_API_KEY)
